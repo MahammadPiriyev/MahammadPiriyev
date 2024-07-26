@@ -11,4 +11,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahammadpiriyev&show_icons=true&locale=en&layout=compact" alt="mahammadpiriyev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahammadpiriyev&" alt="mahammadpiriyev" /></p>
