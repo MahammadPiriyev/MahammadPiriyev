@@ -5,7 +5,6 @@
 <p align="left">I am an 18-year-old aspiring backend developer, currently learning C# and honing my skills in backend technologies to build efficient and scalable applications.</p>
 
 ###
-<img src="https://camo.githubusercontent.com/3a15560bf7735f05e7f63213a41d104f94e3cc8c790e7ff64e708162a445e158/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d53656f6e6572566f7274655826636f6c6f723d626c7565" data-canonical-src="https://komarev.com/ghpvc/?username=mahammadpiriyev&amp;color=blue" style="max-width: 100%;">
 
 <h2 align="left">Technologies</h2>
 
