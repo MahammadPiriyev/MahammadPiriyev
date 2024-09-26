@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am Mahammad Piriyev
+Hi, I am Mahammad Piriyev. I'm Software Development Enthusiast.
 
 
 ## 🌐 Socials:
