@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hi, I am Mahammad Piriyev. I'm Software Development Enthusiast.
-
+I am a passionate software development enthusiast with a strong foundation in building efficient, scalable, and robust web applications. My expertise lies in backend development, with a focus on ASP.NET Core and RESTful Web APIs, where I leverage modern frameworks and best practices to deliver high-performance solutions.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mahammadpiriyev) 
