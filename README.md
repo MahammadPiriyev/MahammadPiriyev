@@ -1,15 +1,12 @@
-# 💫 About Me:
-I am a passionate software development enthusiast with a strong foundation in building efficient, scalable, and robust web applications. My expertise lies in backend development, with a focus on ASP.NET Core and RESTful Web APIs, where I leverage modern frameworks and best practices to deliver high-performance solutions.
+# About Me:
+Backend Developer with 1+ years of experience, including 9-10 months of real-world work experience in developing scalable backend systems. Proficient in system architecture, secure authentication, and writing clean, maintainable code. Experienced with databases and performance optimization. A collaborative team player focused on efficient deployment and continuous improvement.
 
-## 🌐 Socials:
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mahammadpiriyev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahammadpiriyev" height="30" width="40" /></a>
-</p>
+# Stats:
+![](https://nirzak-streak-stats.vercel.app/?user=MahammadPiriyev&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MahammadPiriyev&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MahammadPiriyev&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+---
+[![](https://visitcount.itsvg.in/api?id=MahammadPiriyev&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahammadpiriyev&label=Profile%20views&color=0e75b6&style=flat" alt="mahammadpiriyev" /> </p>
 
