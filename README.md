@@ -1,5 +1,5 @@
 # About Me:
-Backend Developer with 1+ years of experience, including 9-10 months of real-world work experience in developing scalable backend systems. Proficient in system architecture, secure authentication, and writing clean, maintainable code. Experienced with databases and performance optimization. A collaborative team player focused on efficient deployment and continuous improvement.
+Backend Developer with 1.5 years of experience, including 1 year of real-world work experience in developing scalable backend systems. Proficient in system architecture, secure authentication, and writing clean, maintainable code. Experienced with databases and performance optimization. A collaborative team player focused on efficient deployment and continuous improvement.
 
 # Tech Stack:
 <div align="left">
