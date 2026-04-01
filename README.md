@@ -39,6 +39,8 @@ Backend Developer with 1.5 years of experience, including 1 year of real-world w
 <img width="12" />
 </div>
 
+![snake gif](https://github.com/MahammadPiriyev/MahammadPiriyev/blob/output/github-snake-dark.svg)
+
 # Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=MahammadPiriyev&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MahammadPiriyev&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
