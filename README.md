@@ -39,12 +39,11 @@ Backend Developer with 1.5 years of experience, including 1 year of real-world w
 <img width="12" />
 </div>
 
-# GitHub Activity:
+# Activity:
 ![snake gif](https://github.com/MahammadPiriyev/MahammadPiriyev/blob/output/github-snake-dark.svg)
 
 # Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=MahammadPiriyev&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MahammadPiriyev&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MahammadPiriyev&theme=dark)](https://git.io/streak-stats)<br/>
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahammadpiriyev&label=Profile%20views&color=0e75b6&style=flat" alt="mahammadpiriyev" /> </p>
