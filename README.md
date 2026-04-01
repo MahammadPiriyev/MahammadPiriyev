@@ -39,6 +39,7 @@ Backend Developer with 1.5 years of experience, including 1 year of real-world w
 <img width="12" />
 </div>
 
+# GitHub Activity:
 ![snake gif](https://github.com/MahammadPiriyev/MahammadPiriyev/blob/output/github-snake-dark.svg)
 
 # Stats:
