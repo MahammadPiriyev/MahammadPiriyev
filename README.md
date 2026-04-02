@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&text=Hi,%20I%20am%20Mahammad👋&fontSize=50&textBg=false">
 
 # About Me:
-Backend Developer with 1.5 years of experience, including 1 year of real-world work experience in developing scalable backend systems. Proficient in system architecture, secure authentication, and writing clean, maintainable code. Experienced with databases and performance optimization. A collaborative team player focused on efficient deployment and continuous improvement.
+Backend Developer with 1.5+ years of experience, including 1 year of hands-on work building scalable backend systems. Skilled in system architecture, secure authentication, and writing clean, maintainable code. Experienced with databases, performance optimization, and DevOps practices such as CI/CD pipelines, containerization, and deployment automation. Works well in team environments and focuses on reliable deployments and stable system performance.
 
 # Tech Stack:
 <div align="left">
