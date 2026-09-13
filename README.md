@@ -52,5 +52,5 @@ Backend Developer with 1.5+ years of experience, including 1 year of hands-on wo
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MahammadPiriyev&theme=dark)](https://git.io/streak-stats)<br/>
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahammadpiriyev&label=Profile%20views&color=0e75b6&style=flat" alt="mahammadpiriyev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahammadpiriyev&label=Profile%20views&color=0e75b6&style=flat" alt="mahammadpiriyev"/> </p>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&fontSize=50&textBg=false&fontAlign=50&reversal=true&section=footer">
